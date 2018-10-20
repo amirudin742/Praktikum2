@@ -25,6 +25,6 @@
     cout << "Masukan Terbesar Adalah :" << C;
 2. Ini Hasilnya
 
-	![img] (https://raw.githubusercontent.com/amirudin742/Praktikum2/1fa96d11666a201324d8b711dafdf27d2e5a7e23/Hasil1.png)
-	![img] (https://raw.githubusercontent.com/amirudin742/Praktikum2/master/Hasilnya/Hasil2.png)
-	![img] (https://raw.githubusercontent.com/amirudin742/Praktikum2/master/Hasilnya/HAsil%203.png)
+	![img](https://raw.githubusercontent.com/amirudin742/Praktikum2/1fa96d11666a201324d8b711dafdf27d2e5a7e23/Hasil1.png)
+	![img](https://raw.githubusercontent.com/amirudin742/Praktikum2/master/Hasilnya/Hasil2.png)
+	![img](https://raw.githubusercontent.com/amirudin742/Praktikum2/master/Hasilnya/HAsil%203.png)
